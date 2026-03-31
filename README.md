@@ -1,4 +1,7 @@
-## Hi there 👋
+Hello! Looking for summer internships focused on data analysis and software.
+
+https://rohans0.surge.sh/
+(to be updated with more info on projects)
 
 <!--
 **rohans0/rohans0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
