@@ -1,7 +1,5 @@
-Hello! Graduating Fall; Looking for opportunities focused on geospatial data analysis and/or software engineering.
-
+### Projects & more:
 https://rohans0.surge.sh/
-(to be updated with more info on projects)
 
-More on codeberg:
+### Codeberg:
 https://codeberg.org/rohans0
